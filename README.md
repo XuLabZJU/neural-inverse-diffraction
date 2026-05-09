@@ -1,4 +1,4 @@
-# Physics-driven Neural Network-based Inverse Diffraction for Super-resolution Optical Microscopy
+# Neural Inverse Diffraction for Far-Field Fluorescence Super-Resolution microscopy
 
 Rather than directly inverting the propagation operator or learning a structure-specific image mapping, NID learns propagation-constrained inverse-diffraction dynamics under an explicit forward-propagation model, yielding a physically interpretable and stable reconstruction trajectory.
 
