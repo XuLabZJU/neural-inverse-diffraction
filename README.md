@@ -105,7 +105,7 @@ If you find this codebase useful for your research, please cite our paper. The c
 
 ```bibtex
 @article{anonymous_nid_2026,
-  title={Physics-driven Neural Network-based Inverse Diffraction for Super-resolution Optical Microscopy},
+  title={Neural Inverse Diffraction for Far-Field Fluorescence Super-Resolution microscopy},
   author={Anonymous Authors},
   journal={Under Review},
   year={2026}
